@@ -8,6 +8,8 @@ Jupyter notebooks:
 - P2_02_Traitements: preliminary data wrangling
 - P2_03_Exploration: data exploration and analysis
 - P2_04_Exploitation: app concept based on the final wrangled data
+- st_app: Streamlit version of the app
+- st_functions: functions used in st_app
 
 Output:
 - P3_05_Presentation: presentation of process and findings
